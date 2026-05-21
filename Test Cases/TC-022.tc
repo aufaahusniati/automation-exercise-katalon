@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Contact Us Form</description>
+   <name>TC-022</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>304ffe9c-a4e4-4120-8555-fd645f06fc40</testCaseGuid>
+</TestCaseEntity>

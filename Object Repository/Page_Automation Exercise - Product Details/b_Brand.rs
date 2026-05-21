@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Brand</name>
+   <tag></tag>
+   <elementGuidId>dc09ac5f-ffcf-487e-8ba1-fd0b40f6cc32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'p') and (position() = 8)]//b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-child(8) b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Brand:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>eb018271-ae0c-4a75-b802-c210978e7aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brand:</value>
+      <webElementGuid>56f6def7-bdb6-4604-867f-a51609c971a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c3d55d0860cd83c0a99366d10698452f</value>
+      <webElementGuid>e0c01159-eed3-4f0e-a818-aca9974e356e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'p') and (position() = 8)]//b</value>
+      <webElementGuid>50e066fa-7b54-4f0a-b419-cae94faa3c22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'p') and (position() = 8)]//b</value>
+      <webElementGuid>ae54980a-e3c8-4cfc-83c7-155beae182ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Brand:' or . = 'Brand:')]</value>
+      <webElementGuid>a1539b1c-4a29-4ab1-93ad-08fade59abbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

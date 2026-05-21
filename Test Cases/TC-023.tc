@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Subscription in home page</description>
+   <name>TC-023</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6d2855a-1bd4-4ff7-bb97-b7d32614701c</testCaseGuid>
+</TestCaseEntity>

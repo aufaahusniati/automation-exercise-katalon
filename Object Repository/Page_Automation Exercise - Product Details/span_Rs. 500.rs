@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rs. 500</name>
+   <tag></tag>
+   <elementGuidId>432cbba0-629f-4249-a86e-d8147ca2e3dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span//span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Rs. 500&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a5cfbd21-d9b3-47a7-834c-1645b9bfb7b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rs. 500</value>
+      <webElementGuid>b6d9da42-2cde-4bed-8b6a-2d0a1fe7474a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3a9b2e99b4f731f34bdb1ae9adcda624</value>
+      <webElementGuid>2e76a5d2-c9f6-4403-ba3f-c7bcdce09e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span//span</value>
+      <webElementGuid>00911c74-3cf9-4188-9aae-0eef15f797b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span//span</value>
+      <webElementGuid>0f37a3d9-4164-4636-b92a-b705ce02c521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rs. 500' or . = 'Rs. 500')]</value>
+      <webElementGuid>0071b3f3-727b-4bfa-a2e8-acfaaf0753b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

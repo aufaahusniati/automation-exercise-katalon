@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with Correct Email and Password</description>
+   <name>TC-003</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d95c6ee2-f636-41fe-a415-04bc440319de</testCaseGuid>
+</TestCaseEntity>

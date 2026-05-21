@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Products and Verify Cart After Login</description>
+   <name>TC-008</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68c4f7a9-ef48-4078-bec9-27f55a5bbeb1</testCaseGuid>
+</TestCaseEntity>

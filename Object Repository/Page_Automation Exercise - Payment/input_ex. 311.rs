@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ex. 311</name>
+   <tag></tag>
+   <elementGuidId>86b32af7-6147-4aba-8931-a2884388c5df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'cvc' and @placeholder = 'ex. 311' and @type = 'text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-qa=&quot;cvc&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-qa = 'cvc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;ex. 311&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>32de2a5c-a30c-464a-9d2b-7092eeffe85c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>cvc</value>
+      <webElementGuid>395a72e5-20b3-4677-9729-a13033e97f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa</name>
+      <type>Main</type>
+      <value>cvc</value>
+      <webElementGuid>2fc4381b-f449-44ed-8b32-8965e9e4f4cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control card-cvc</value>
+      <webElementGuid>3e03ab07-a776-4840-93cb-1870805c8140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>ex. 311</value>
+      <webElementGuid>2056e543-742e-4522-b9ea-a11d1a22917f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>21bfc1e1-9859-4a4c-8b16-bebce6ad2a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bc87347e546ccd221d8d30198794932b</value>
+      <webElementGuid>89e2b0a3-b159-413a-aab8-97770abbca71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-qa = 'cvc']</value>
+      <webElementGuid>5cb87524-3335-40d9-bd9c-d80f26dbc9f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-qa = 'cvc']</value>
+      <webElementGuid>64b150c8-6095-4a6b-aa63-366424b1ec45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'cvc' and @placeholder = 'ex. 311' and @type = 'text']</value>
+      <webElementGuid>22359801-6578-4088-a3b6-455994ebc193</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

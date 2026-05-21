@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>u_View Cart</name>
+   <tag></tag>
+   <elementGuidId>e54e2cfa-54d7-4676-9025-ba77ee9ca3c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>u</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//u</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;View Cart&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>u</value>
+      <webElementGuid>079279fa-fd0f-49fa-a6be-9ac4f3cfec42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Cart</value>
+      <webElementGuid>540d551f-c372-4985-a264-8e89e3c9e87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5d79a02b84ba1297daf6008bad3d2b77</value>
+      <webElementGuid>ab0d2edf-fd4a-4427-9b6b-30444bbd0fcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//u</value>
+      <webElementGuid>0a68c698-f4f9-4165-9a23-d5a9328c818c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//u</value>
+      <webElementGuid>16e1d464-9bbd-4a3b-8874-be10ed2fac46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//u[(text() = 'View Cart' or . = 'View Cart')]</value>
+      <webElementGuid>9c9688f7-9f32-4e65-93de-01b1f0ca64d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

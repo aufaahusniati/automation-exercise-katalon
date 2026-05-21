@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search Product</description>
+   <name>TC-007</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d4007fb-f7a4-4f88-aa88-28ce1fd6904b</testCaseGuid>
+</TestCaseEntity>

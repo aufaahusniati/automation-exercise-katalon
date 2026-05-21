@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_0987654321_1</name>
+   <tag></tag>
+   <elementGuidId>4492f6ef-d388-43f8-8e3d-445d0dfa1b80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#address_invoice .address_phone</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'address_invoice']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' address_phone ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#address_invoice >> internal:text=&quot;0987654321&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>dd4ca313-c913-4c94-929f-bf7a0c5b0aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>address_phone</value>
+      <webElementGuid>2a168e4a-4311-4161-97b0-8ac57f4e7466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0987654321</value>
+      <webElementGuid>750707f6-684c-4c90-b29d-3cba968dd50a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d6c179e80f76c4633f99953356fd9ef3</value>
+      <webElementGuid>5c093749-b303-4f91-8b8c-616d314a465c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'address_invoice']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' address_phone ')]</value>
+      <webElementGuid>5cd9617e-c275-4aa9-be87-1e3dd3b574f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'address_invoice']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' address_phone ')]</value>
+      <webElementGuid>c0a368bc-e85d-4da1-8e9b-53d99c83cb37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '0987654321' or . = '0987654321')]</value>
+      <webElementGuid>71874ee7-a4fd-42a3-b586-c582b6815050</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

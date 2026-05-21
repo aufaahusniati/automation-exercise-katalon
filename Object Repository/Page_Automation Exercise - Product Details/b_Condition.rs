@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Condition</name>
+   <tag></tag>
+   <elementGuidId>667ea1ce-8d7d-4ac5-a2a5-58153abb0b52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'p') and (position() = 7)]//b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-child(7) b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Condition:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>67665c93-78c2-4e57-baff-cf67ac316b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Condition:</value>
+      <webElementGuid>175bb0dc-c6e1-4ca0-bb7c-c2becae23079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0b1b9c54e9e50b52dba6b28ca4c5324a</value>
+      <webElementGuid>9f9e3bfd-d45e-4375-8c3e-8cca6f45c397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'p') and (position() = 7)]//b</value>
+      <webElementGuid>46ac27ef-6d8b-40e3-8b1b-e9026f10a538</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'p') and (position() = 7)]//b</value>
+      <webElementGuid>3d874f30-9f77-44ec-abe2-d59b8217e437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Condition:' or . = 'Condition:')]</value>
+      <webElementGuid>51ab140f-e121-4f14-8ccd-194dfdb7138a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Add Review Here</name>
+   <tag></tag>
+   <elementGuidId>d06a310e-9dca-48ad-9279-5e197fdf6fb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#review</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'review']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Add Review Here!&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>07b8a408-ad98-4cc0-932e-7e4cab9127ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>review</value>
+      <webElementGuid>3f8a00c7-0d51-4afd-8bfc-2e7f02715c34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Add Review Here!</value>
+      <webElementGuid>ac73f0d7-76cb-47b9-81e7-9a205908530a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>review</value>
+      <webElementGuid>879c42e3-0ff3-463a-ba47-fdef93369372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0aaf067d17a7f80d32ab7d38e28e0049</value>
+      <webElementGuid>496dc71f-257d-4ed5-86b4-b93bc25db410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'review']</value>
+      <webElementGuid>f173fecb-2424-4bb8-a8ba-fadbea151f48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'review']</value>
+      <webElementGuid>8e9c239f-cae8-4b2b-8159-fc1c6379a7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'review' and @placeholder = 'Add Review Here!' and @id = 'review']</value>
+      <webElementGuid>eb6b78d2-a8a9-4bbc-8a38-13073bbffdd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

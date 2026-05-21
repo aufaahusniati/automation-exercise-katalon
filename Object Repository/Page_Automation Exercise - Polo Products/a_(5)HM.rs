@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_(5)HM</name>
+   <tag></tag>
+   <elementGuidId>da7e040d-ec91-4975-8389-8f8798d70bd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/brand_products\/H\&amp;M&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/brand_products/H&amp;M']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;(5) H&amp;M&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d10ab1a7-f1e4-43bd-9ece-4826342491b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/brand_products/H&amp;M</value>
+      <webElementGuid>3d5ba073-5692-4966-82bd-70cb5d71e515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> (5)H&amp;M</value>
+      <webElementGuid>4b8633b6-4d89-44de-9dca-603628490a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2186e2077e8691981d525ee05a8e78d7</value>
+      <webElementGuid>7796f753-028b-4519-a92a-61646fcff22c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/brand_products/H&amp;M']</value>
+      <webElementGuid>615186f0-e476-42fa-b338-16057a220904</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/brand_products/H&amp;M']</value>
+      <webElementGuid>8207b710-90a5-4954-af22-f38f4e77eccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/brand_products/H&amp;M' and (text() = ' (5)H&amp;M' or . = ' (5)H&amp;M')]</value>
+      <webElementGuid>23099e61-2cc2-48d5-9790-e23d79b1af8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

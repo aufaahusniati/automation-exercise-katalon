@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Availability</name>
+   <tag></tag>
+   <elementGuidId>fb3b8914-c2be-446d-b26c-6b1cf7750d43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'p') and (position() = 6)]//b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-child(6) b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Availability:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>75521d5a-0a37-47f1-a8dc-02e18d6e5093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Availability:</value>
+      <webElementGuid>a321c3f2-8674-43b6-827a-464c1e717b7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1a1297616ab6a078fb302888233380db</value>
+      <webElementGuid>028a126f-0074-4d53-90ff-c5561c1ae9c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'p') and (position() = 6)]//b</value>
+      <webElementGuid>e816bbeb-18b6-4fdb-80bd-e922d19cfc82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'p') and (position() = 6)]//b</value>
+      <webElementGuid>55a7fe86-0103-422b-80f5-5d0bd994d2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Availability:' or . = 'Availability:')]</value>
+      <webElementGuid>20bf09ee-fa8a-44d8-9c37-e771638b231e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

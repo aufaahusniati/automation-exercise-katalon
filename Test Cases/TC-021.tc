@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Test Cases Page</description>
+   <name>TC-021</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97bbc03a-c5d9-4aaf-af22-1bcc906e1bd2</testCaseGuid>
+</TestCaseEntity>

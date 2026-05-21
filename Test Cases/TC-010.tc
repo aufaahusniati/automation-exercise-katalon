@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>View &amp; Cart Brand Products</description>
+   <name>TC-010</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d84503c-a3e4-4fe7-8f7e-97c2af47e680</testCaseGuid>
+</TestCaseEntity>

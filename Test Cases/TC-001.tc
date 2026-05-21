@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Successful Register</description>
+   <name>TC-001</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95a27311-7ded-4500-a0cc-e0b8b04af881</testCaseGuid>
+</TestCaseEntity>

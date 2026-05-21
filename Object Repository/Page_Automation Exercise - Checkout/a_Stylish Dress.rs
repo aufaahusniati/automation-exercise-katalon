@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Stylish Dress</name>
+   <tag></tag>
+   <elementGuidId>a8e16a18-587b-4a24-aa6f-838d9caa08e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4 a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Stylish Dress&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7cc9b82c-680a-4ce3-aacb-786dbf9154a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/product_details/4</value>
+      <webElementGuid>4eedf123-1882-4264-894a-57a7e46235ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stylish Dress</value>
+      <webElementGuid>d3695eff-872c-48a1-bb96-832396e7f838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ce1b3736564370c6e9de09aeb1b4af56</value>
+      <webElementGuid>85695b6c-6f24-4e36-8271-85b3f81c3033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h4//a</value>
+      <webElementGuid>87700f11-9f60-4358-bc45-943e2a96def9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h4//a</value>
+      <webElementGuid>846ece9a-0c5f-4eb4-b055-1c643e6d13cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/product_details/4' and (text() = 'Stylish Dress' or . = 'Stylish Dress')]</value>
+      <webElementGuid>d640cc81-4ea6-439d-b147-91403ae41f44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

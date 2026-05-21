@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Search Product</name>
+   <tag></tag>
+   <elementGuidId>0b4e0da1-d5f8-47c4-a418-ff09f361928c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'search' and @id = 'search_product' and @placeholder = 'Search Product']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#search_product</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'search_product']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search Product&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>39e3fa37-c05a-4e9d-96f2-31e9080d0db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4d9b1277-3312-4261-9849-c468dc4c0435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>fe9e1751-836b-43a3-8d82-a53fbcfe743c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>search_product</value>
+      <webElementGuid>86822d3e-f325-41b1-9fea-e2ddedc2decb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search Product</value>
+      <webElementGuid>f92a979d-e26a-4dd4-9308-5d88b33a9f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-lg</value>
+      <webElementGuid>7d6c554e-9f2f-4a48-9a80-6de0d94099d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-15738a70197585a896cc21ea9a0f619b</value>
+      <webElementGuid>77cb45eb-54a7-4866-8861-087baf8e8d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'search_product']</value>
+      <webElementGuid>6ce17a73-5e2c-4583-a754-b0e54bbc86e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'search_product']</value>
+      <webElementGuid>d8934329-05c1-47d6-8172-424c3c9371fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'search' and @id = 'search_product' and @placeholder = 'Search Product']</value>
+      <webElementGuid>c7db09d0-1b3c-4998-9666-3debd51a30fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Blue Top</name>
+   <tag></tag>
+   <elementGuidId>b91042a3-274d-436a-9f25-6c9169ff9f7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4 a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4//a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Blue Top&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dd21e450-a010-4cd8-8f1b-25ec06ac9957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/product_details/1</value>
+      <webElementGuid>c03484e6-731f-4690-b6d9-6ad391c987f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blue Top</value>
+      <webElementGuid>dc005b1d-8277-47b1-810c-8b37ff7c7991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ce1b3736564370c6e9de09aeb1b4af56</value>
+      <webElementGuid>2dd899c0-b893-4e47-b929-fb3cd13d371d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h4//a</value>
+      <webElementGuid>d4ab0e32-4ec5-40cc-9f68-43289121c3b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h4//a</value>
+      <webElementGuid>fc1b1c02-4d4e-4f34-84c1-39bc501c68b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/product_details/1' and (text() = 'Blue Top' or . = 'Blue Top')]</value>
+      <webElementGuid>41e30e98-1c51-460d-ad46-f91887fdcbea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
